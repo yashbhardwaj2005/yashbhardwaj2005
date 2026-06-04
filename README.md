@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yash Bhardwaj 👋
 
-<!--
-**yashbhardwaj2005/yashbhardwaj2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- JavaScript
+- DSA in Java
+- Web Development
+- Full Stack Development
+- AWS Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Career Goal
+Become a Software Engineer and build scalable real-world applications.
+
+📚 Current Focus
+- Strengthening DSA
+- Building Full Stack Projects
+- Learning Cloud Technologies
+- Improving Problem Solving
