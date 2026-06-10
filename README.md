@@ -25,7 +25,6 @@
 Name        : Yash Bhardwaj
 College     : ABES Engineering College
 Degree      : B.Tech in Computer Science & Engineering
-Location    : India
 Focus       : Full Stack Dev · DSA · Cloud Computing
 Email       : yashbhardwaj509@gmail.com
 Goal        : Build scalable products used by millions
@@ -96,14 +95,6 @@ Goal        : Build scalable products used by millions
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashbhardwaj2005&theme=tokyonight&row=1&column=6&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
